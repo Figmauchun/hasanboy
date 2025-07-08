@@ -5,3 +5,11 @@
   box-sizing: border-box;
   font-family: "Outfit";
 }
+.card {
+  max-width: 400px;
+  box-shadow: 14px 14px 28px #e1e1e1;
+  padding: 20px;
+  border-radius: 20px;
+  margin: 50px auto;
+  border: 1px solid #e1e1e1;
+}
